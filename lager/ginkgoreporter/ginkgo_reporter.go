@@ -5,7 +5,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/lexkong/lager"
+	"github.com/reed-chi/log/lager"
 	"github.com/onsi/ginkgo/config"
 	"github.com/onsi/ginkgo/types"
 )
