@@ -5,7 +5,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/lexkong/log/lager/color"
+	"github.com/reed-chi/log/lager/color"
 )
 
 const logBufferSize = 1024
